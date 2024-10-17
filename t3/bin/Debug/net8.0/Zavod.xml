@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Zavod>
+	<Worker>
+		<DepNumber>1</DepNumber>
+		<Position>Інженер</Position>
+		<Experience>5</Experience>
+		<Salary>15000</Salary>
+		<Surname>Іваненко</Surname>
+	</Worker>
+	<Worker>
+		<DepNumber>2</DepNumber>
+		<Position>Технік</Position>
+		<Experience>3</Experience>
+		<Salary>12000</Salary>
+		<Surname>Петренко</Surname>
+	</Worker>
+	<Worker>
+		<DepNumber>1</DepNumber>
+		<Position>Майстер</Position>
+		<Experience>10</Experience>
+		<Salary>20000</Salary>
+		<Surname>Сидоренко</Surname>
+	</Worker>
+</Zavod>

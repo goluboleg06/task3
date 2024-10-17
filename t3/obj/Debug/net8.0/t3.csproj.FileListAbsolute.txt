@@ -1,0 +1,14 @@
+D:\programming t\task3\t3\bin\Debug\net8.0\t3.exe
+D:\programming t\task3\t3\bin\Debug\net8.0\t3.deps.json
+D:\programming t\task3\t3\bin\Debug\net8.0\t3.runtimeconfig.json
+D:\programming t\task3\t3\bin\Debug\net8.0\t3.dll
+D:\programming t\task3\t3\bin\Debug\net8.0\t3.pdb
+D:\programming t\task3\t3\obj\Debug\net8.0\t3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming t\task3\t3\obj\Debug\net8.0\t3.AssemblyInfoInputs.cache
+D:\programming t\task3\t3\obj\Debug\net8.0\t3.AssemblyInfo.cs
+D:\programming t\task3\t3\obj\Debug\net8.0\t3.csproj.CoreCompileInputs.cache
+D:\programming t\task3\t3\obj\Debug\net8.0\t3.dll
+D:\programming t\task3\t3\obj\Debug\net8.0\refint\t3.dll
+D:\programming t\task3\t3\obj\Debug\net8.0\t3.pdb
+D:\programming t\task3\t3\obj\Debug\net8.0\t3.genruntimeconfig.cache
+D:\programming t\task3\t3\obj\Debug\net8.0\ref\t3.dll
